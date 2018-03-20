@@ -34,3 +34,9 @@ git checkout
 3.) Why would you want to use a branch other than the default master?
 Working on a branch allows one to work in a space that is different than the master branch. Therefore if code is not working or if it is not ready to be commited and pushed for others to work on or see, it does not affect anyone else in the workspace.
 
+Part 4:
+1.) Give an example for when you would use git merge and give an example for when it would be better to submit a pull request to have your branch merged.
+git merge is helpful in a team setting where there are many other branches that need to be worked with/on in order for the branch that you are working on to function correctly.
+
+2.) What command do you use to send all of the work that you've done locally to your remote repository?
+git push orgin master
