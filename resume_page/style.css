@@ -1,0 +1,31 @@
+h1 {
+	text-align: center;
+	font-family: "Courier New", monospace;
+}
+
+h3 {
+	color: #8994a5;
+	text-align: center;
+}
+
+img {
+	height: 300px;
+	width: 300px;
+	margin: auto;
+	display: block;
+	border-radius: 100%;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+li {
+	line-height: 20px;
+	width: 500px;
+}
+
+p {
+	font-weight: bold;
+}
