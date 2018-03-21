@@ -16,17 +16,17 @@ git pull
 git reset
 
 3.) What command do you use to change your files back to how they were after a commit?
-git reset -- soft
+git checkout --
 
 4.) Why is it important to use -- when changing files back to a previous state?
-\\\
+It is important to use -- because it allows you to undo something that you commited and no longer want to have commited.
 
 5.) Why might you want to reset your files back to a previous commit?
 Resets allow one to go back to a previous point in the code that things were working well and start from that point again.
 
 Part 3:
 1.) What command do you use to create a branch?
-\\\
+git checkout -b
 
 2.) What command do you use to use a different branch?
 git checkout 
